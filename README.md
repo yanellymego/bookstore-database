@@ -1,4 +1,7 @@
 # Bookstore-database
+
+**Originally created May 2024**
+
 A Streamlit-based web interface for interacting with a MySQL bookstore database. This project was built as part of a Database Management course and demonstrates the integration of a frontend interface with a relational database backend.
 
 ## Features
